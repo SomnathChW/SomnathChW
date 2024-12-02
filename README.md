@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **XP Scheduler**
 
-- 🌱 I’m currently learning **Java & C++**
+- 🌱 I’m currently learning **Kotlin & React**
 
-- 🤝 I’m looking for help with **Conventional Server Android Backend**
+- 🤝 I’m looking for help with **Node.js and Java Backends**
 
-- 💬 Ask me about **Android Native, Firebase Android**
+- 💬 Ask me about **Android Native, React Native**
 
 - 📫 How to reach me **sommmchowdhury@outlook.com**
 
